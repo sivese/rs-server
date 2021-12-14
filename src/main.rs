@@ -7,6 +7,7 @@
 */
 
 mod svr;
+mod thread;
 
 fn main() {
 
